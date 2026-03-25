@@ -1,0 +1,1 @@
+{"name": "apex-scanner", "version": "1.0.0", "description": "APEX Scanner Application", "main": "index.js", "scripts": {"test": "echo 'Error: no test specified' && exit 1"}, "repository": {"type": "git", "url": "https://github.com/Lappies026/apex-scanner.git"}, "author": "Lappies026", "license": "ISC"}
